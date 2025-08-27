@@ -79,10 +79,10 @@ Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre bu
 
 ## 🎯 Próximos objetivos
 
-- Desenvolvimento de **APIs RESTful**   
-- Contribuir para **projetos open source**  
+- Desenvolvimento de **APIs RESTful**     
 - Desenvolver projetos próprios para consolidar aprendizados
-- Explorar mais de cada tecnologia  
+- Explorar mais de cada tecnologia
+- Contribuir para **projetos open source**
 
 ---
 
