@@ -11,7 +11,7 @@
 ## 👋 Sobre mim
 
 - 🎓 Técnico em **Desenvolvimento de Sistemas** pela ETEC  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Formado **Análise e Desenvolvimento de Sistemas**  
 - 💻 Apaixonado por **tecnologia** e **desenvolvimento de softwares**  
 - 🚀 Em constante evolução, focado em **Back-End**, **automação** e **boas práticas de código**  
 
@@ -23,7 +23,7 @@ Hoje, busco oportunidades para aplicar e expandir meus conhecimentos, contribuin
 ## ⚙️ Foco profissional
 
 - Especial interesse em **desenvolvimento Back-End**, com foco em:
-  - **Express/Node.js** + TypeScript
+  - **Laravel (PHP)** e Express/Node.js + TypeScript
   - **Bancos de dados relacionais** (MySQL, PostgreSQL + Prisma)  
   - Explorando **automações** e **processamento de dados** com Python e Flask 
   - **Boas práticas de código**, **versionamento com Git** e **segurança**
@@ -70,6 +70,7 @@ Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre bu
 
 ## 📚 Atualmente estudando
 
+- Back-end com Laravel e Docker para conteinerização de bancos de dados MySQL
 - Estruturas de dados e algoritmos com **JavaScript** e **Python**  
 - Desenvolvimento de **APIs** e **automação**  
 - Desenvolvimento de aplicações web e **Boas práticas de segurança**  
