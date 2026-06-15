@@ -13,7 +13,7 @@
 - 🎓 Técnico em **Desenvolvimento de Sistemas** pela ETEC  
 - 🎓 Formado **Análise e Desenvolvimento de Sistemas**  
 - 💻 Apaixonado por **tecnologia** e **desenvolvimento de softwares**  
-- 🚀 Em constante evolução, focado em **Back-End**, **automação** e **boas práticas de código**  
+- 🚀 Em constante evolução, focado em **Back-End**, **Front-end**, **automação** e **boas práticas de código**  
 
 Sou movido pela vontade de aprender, criar soluções eficientes e evoluir como profissional. 
 Hoje, busco oportunidades para aplicar e expandir meus conhecimentos, contribuindo para projetos reais.
@@ -23,14 +23,13 @@ Hoje, busco oportunidades para aplicar e expandir meus conhecimentos, contribuin
 ## ⚙️ Foco profissional
 
 - Especial interesse em **desenvolvimento Back-End**, com foco em:
-  - **Laravel (PHP)** e Express/Node.js + TypeScript
+  - **Laravel (PHP) e Next.js**
   - **Bancos de dados relacionais** (MySQL, PostgreSQL + Prisma)  
-  - Explorando **automações** e **processamento de dados** com Python e Flask 
   - **Boas práticas de código**, **versionamento com Git** e **segurança**
 
-- Estudando Desenvolvimento Front-End usando: **React + Next.js + CSS**
+- Front-End: **React + Next.js + TypeScript + CSS**
 
-Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre buscando construir aplicações robustas e bem estruturadas.
+Atualmente me aprofundando em Next.js, React e TypeScript, buscando construir boas práticas e código escalável.
 
 ---
 
@@ -40,7 +39,6 @@ Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre bu
 - Experiência em **processos de análise de sistemas**:  
   - Coleta e levantamento de requisitos  
   - Modelagem de processos e sistemas  
-  - Documentação e comunicação com stakeholders  
 - Familiaridade com ferramentas de **testes automatizados** como **Jest**
 
 ---
@@ -71,7 +69,6 @@ Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre bu
 ## 📚 Atualmente estudando
 
 - Back-end com Laravel e Docker para conteinerização de bancos de dados MySQL
-- Estruturas de dados e algoritmos com **JavaScript** e **Python**  
 - Desenvolvimento de **APIs** e **automação**  
 - Desenvolvimento de aplicações web e **Boas práticas de segurança**  
 - **Testes** de sistemas  
@@ -79,8 +76,7 @@ Atualmente me aprofundando basicamente em **JavaScript** e **Python**, sempre bu
 ---
 
 ## 🎯 Próximos objetivos
-
-- Desenvolvimento de **APIs RESTful**     
+  
 - Desenvolver projetos próprios para consolidar aprendizados
 - Explorar mais de cada tecnologia
 - Contribuir para **projetos open source**
